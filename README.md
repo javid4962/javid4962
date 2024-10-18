@@ -5,8 +5,12 @@
 ###
 
 <br clear="both">
-
-<p align="left">I'm a Frontend Webdeveloper with a passion for creating innovative and user-friendly websites. I have knowledge in front-end development using HTML, CSS, and JavaScript, as well as front-end framework such as React.js.</p>
+<div style="margin:auto; display:flex; flex-direction:column; justify-content:center; align-items:center">
+<img align="center" height="150" width="150" src="./image.png" alt="javid4962" style="border-radius:5%"/>
+<br />
+I am a highly motivated and detail-oriented Computer Science graduate with strong expertise in web development, programming, and problem-solving. With hands-on experience in developing dynamic and responsive websites using technologies like HTML, CSS, JavaScript, React, and WordPress, I have successfully delivered projects that enhanced user experience and optimized site performance. <br /><br/>
+My ability to quickly learn new technologies, combined with my skills in Python, C, and databases like MySQL and MongoDB, allows me to work on both front-end and back-end development. I have also gained practical experience in Salesforce development, process automation, and secure e-commerce site creation. Eager to contribute to team success through my technical skills, collaboration, and innovative mindset, I am looking for opportunities to grow and take on new challenges in a dynamic environment.
+</div>
 
 ###
 
@@ -14,7 +18,7 @@
 
 <div align="center">
  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=javid4962&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=radical&hide_border=false" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=javid4962&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=radical&hide_border=false" height="200" alt="languages graph" width="100%" />
   <img src="https://streak-stats.demolab.com?user=javid4962&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=javid4962&theme=redical" height="150" alt="activity-graph graph"  />
 </div>
@@ -23,9 +27,7 @@
 
 <br clear="both">
 
-<img align="left" height="300" src="https://i.pinimg.com/736x/cc/23/03/cc23038ee321aa50c0e9cd57c1586c2c.jpg"  />
 
-###
 
 <div align="center">
   <a href="https://www.instagram.com/_javid_4962/" target="_blank">
@@ -39,6 +41,9 @@
   </a>
   <a href="https://www.hackerrank.com/profile/javid_4962" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
+  </a>
+  <a href="https://www.javid4962.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=youtube&label=&color=EEC866&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="portfolio logo"  />
   </a>
 </div>
 
@@ -54,6 +59,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
@@ -65,16 +71,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+
+  <img width="12" />
+ 
 </div>
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/javid4962/javid4962/output/snake.svg" alt="Snake animation" />
 
 ###
 
